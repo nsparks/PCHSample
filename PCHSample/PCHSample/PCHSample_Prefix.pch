@@ -1,4 +1,4 @@
 #import <Foundation/Foundation.h>
 
-// Some header we need
+// Some header we need -- this causes the failure
 #import <Dependency/NecessaryHeader.h>
