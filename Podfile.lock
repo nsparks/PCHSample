@@ -1,0 +1,16 @@
+PODS:
+  - Dependency (0.1.0)
+
+DEPENDENCIES:
+  - Dependency (from `Dependency`)
+
+EXTERNAL SOURCES:
+  Dependency:
+    :path: Dependency
+
+SPEC CHECKSUMS:
+  Dependency: c986f3de9a2f5d7803fd1786b3ea356aa7427510
+
+PODFILE CHECKSUM: e90eeadf3ebafcc34b2ceb076bf53afdbcb1fda6
+
+COCOAPODS: 1.5.2

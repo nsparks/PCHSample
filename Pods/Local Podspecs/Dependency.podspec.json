@@ -1,0 +1,22 @@
+{
+  "name": "Dependency",
+  "version": "0.1.0",
+  "summary": "A short description of Dependency.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/nsparks",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Nick Sparks": "nicksparks4@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/nsparks/PCHSample.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Dependency/Classes/**/*"
+}
