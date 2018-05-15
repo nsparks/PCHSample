@@ -2,3 +2,6 @@
 
 // Some header we need -- this causes the failure
 #import <Dependency/NecessaryHeader.h>
+
+// This fails too
+//@import Dependency.NecessaryHeader;
